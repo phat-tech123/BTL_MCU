@@ -1,0 +1,2 @@
+global.c:20:6:setvalue	4	static
+global.c:31:6:upvalue	4	static
